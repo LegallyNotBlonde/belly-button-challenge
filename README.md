@@ -13,7 +13,7 @@ ___
 
 ___
 
-**Please find an [interative page here](https://legallynotblonde.github.io/belly-button-challenge/).
+### Please find an [interative page with both charts here](https://legallynotblonde.github.io/belly-button-challenge/).
 
 ___
 
